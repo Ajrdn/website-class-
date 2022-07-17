@@ -1,0 +1,7 @@
+body {
+  background:aliceblue url('../../../images/boy.png') no-repeat top right fixed;
+}
+
+#container {
+  height:100vh;
+}
