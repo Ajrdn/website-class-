@@ -1,0 +1,10 @@
+nav ul {
+  list-style:none;
+}
+
+nav ul li {
+  display:inline-block;
+  border:1px solid #222;
+  padding:20px;
+  margin:0 20px;
+}
