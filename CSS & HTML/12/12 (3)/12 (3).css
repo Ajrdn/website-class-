@@ -1,0 +1,28 @@
+.container {
+  display:flex;
+  height:300px;
+  background-color:#eee;
+  border:1px solid #222;
+  margin-bottom:30px;
+  justify-content:space-around;
+}
+
+.box {
+  width:100px;
+  height:100px;
+  margin:5px;
+  background-color:#222;
+}
+
+#b1 {
+  height:50px;
+}
+
+#b2 {
+  height:200px;
+}
+
+p {
+  color:#fff;
+  text-align:center;
+}
